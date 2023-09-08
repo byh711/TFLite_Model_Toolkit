@@ -22,10 +22,9 @@ This repository demonstrates converting TensorFlow models to TFLite format and u
 
 ## Getting Started
 
-1. **Clone the Repository**:
+1. **Clone the Repository**: 
 2. **Set Up the Environment**:
-3. **Run the Notebook**:
-Open `TFLite_Model_Conversion_and_Prediction.ipynb` and follow the instructions.
+3. **Run the Notebook**: Open `TFLite_Model_Conversion_and_Prediction.ipynb` and follow the instructions.
 
 ## Conclusion
 
