@@ -32,7 +32,3 @@ This repository demonstrates converting TensorFlow models to TFLite format and u
 ## Conclusion
 
 TensorFlow Lite is essential for deploying models on edge devices, especially for real-time systems.
-
-## Acknowledgements
-This work was supported by a grant from the National Research Foundation of Korea (NRF) (Grant number:2021R1G1A1003801). 
-We would like to thank our other research collaborators who contributed to this work.
