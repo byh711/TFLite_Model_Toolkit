@@ -1,4 +1,4 @@
-# TensorFlow Lite (TFLite) Project
+# TensorFlow Lite (TFLite)
 
 TensorFlow Lite (TFLite) is an open-source deep learning framework from Google's TensorFlow team. It's designed for mobile and embedded devices. TFLite provides tools to convert and optimize TensorFlow models for these deployments.
 
